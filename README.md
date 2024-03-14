@@ -6,4 +6,7 @@ Basic Algorithms and Concepts:
 Data Structures:
 1. Linked List : singly and doubly
 2. Stack and Queue
-3. Trie
+4. Trie
+
+Notation Calculator
+-> Implementation of stack using linked list for converting mathematical expressions from infix to either prefix or postfix. In addition, calculate result of those expressions. 
